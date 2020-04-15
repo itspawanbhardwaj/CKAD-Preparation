@@ -4,7 +4,7 @@ Preparation for Kubernetes application developer certification
 
 | Steps | Links |
 | ------ | ------ |
-| CKA CKAD Candidate Handbook | https://training.linuxfoundation.org/wp-content/uploads/2019/05/CKA-CKAD-Candidate-Handbook-v1.2-.pdf |
+| CKA CKAD Candidate Handbook | https://training.linuxfoundation.org/wp-content/uploads/2019/08/CKA-CKAD-Candidate-Handbook-8.5.19.pdf |
 | Official k8s docs | https://kubernetes.io/docs/home/ |
 | Introduction to kubernetes | https://training.linuxfoundation.org/training/introduction-to-kubernetes/ |
 | For Getting started | https://www.udemy.com/course/learn-kubernetes/ |
